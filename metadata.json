@@ -1,0 +1,11 @@
+{
+  "name": "ANU",
+  "description": "Arushi - Your Personal AI Assistant featuring Gemini Live real-time multi-language voice, Android action bridge for WhatsApp and calls, document scanning, user memories, journal, and study mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
